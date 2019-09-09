@@ -1,0 +1,447 @@
+[
+  {
+    "_id": "5a1b44002cf8766cce488e86",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b43ff2cf8766cce488e7c",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Changing the Course",
+    "body": "",
+    "description": "<p><br></p><p><br></p><p>Understand sexual harm and the principle of Respect. Now. Always.</p><p><br></p>",
+    "duration": "6 minutes",
+    "_swipeMenu": {
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableDetailOnHover": false,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 0,
+        "_left": 0
+      }
+    },
+    "_coverMenu": {
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/5a1769432cf8766cce488d81/small/VC-RespectNowAlways V2.png",
+      "alt":"Changing the Course",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Respect. Now. Always.",
+    "_type": "page",
+    "_courseOrder": "0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e88",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b43ff2cf8766cce488e7c",
+    "_sortOrder": 1,
+    "__v": 0,
+    "description": "<p>Learn about how you can best support a victim survivor during a disclosure of sexual harm.<br></p><p><br></p>",
+    "displayTitle": "Responding behaviourally to disclosures of sexual harm",
+    "duration": "4 minutes",
+    "_swipeMenu": {
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableDetailOnHover": false,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 0,
+        "_left": 0
+      }
+    },
+    "_coverMenu": {
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/5a1503912cf8766cce488c0f/small/9cef1787f6468322a000a30ee2ddcd9a.jpg",
+      "alt":"Responding behaviourally to disclosures of sexual harm",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Responding behaviourally to disclosures of sexual harm",
+    "_type": "page",
+    "_courseOrder": "1"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e87",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b43ff2cf8766cce488e7c",
+    "_sortOrder": 2,
+    "__v": 0,
+    "description": "<p>Explore how to make informed decisions and respond procedurally to disclosures of sexual harm. </p><p><br></p>",
+    "displayTitle": "Responding procedurally to disclosures of sexual harm",
+    "duration": "5 minutes",
+    "_swipeMenu": {
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableDetailOnHover": false,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 0,
+        "_left": 0
+      }
+    },
+    "_coverMenu": {
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/5a15033c2cf8766cce488c0d/small/3e8a2c41dd86f7dd33055fd5700267ca.jpg",
+      "alt":"Responding procedurally to disclosures of sexual harm",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Responding procedurally to disclosures of sexual harm",
+    "_type": "page",
+    "_courseOrder": "2"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e89",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b43ff2cf8766cce488e7c",
+    "_sortOrder": 3,
+    "__v": 0,
+    "description": "<p><br></p><p><br></p><p>Explore a scenario about a disclosure of sexual harm.<br></p><p><span style=\"\"><br></span></p><p><span style=\"\"><br></span></p>",
+    "displayTitle": "Sexual harm case study",
+    "duration": "5 minutes",
+    "_swipeMenu": {
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableDetailOnHover": false,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 0,
+        "_left": 0
+      }
+    },
+    "_coverMenu": {
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "src": "course/en/assets/images/5a1503cd2cf8766cce488c11/small/6b21a652c599cda717d698a56f7fcddf.jpg",
+      "alt":"Sexual harm case study",
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Sexual harm case study",
+    "_type": "page",
+    "_courseOrder": "3"
+  }
+]

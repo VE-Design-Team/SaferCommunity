@@ -1,0 +1,738 @@
+{
+  "_id": "5a1b43ff2cf8766cce488e7e",
+  "_menu": "boxMenu",
+  "_theme": "standardTheme",
+  "_courseId": "5a1b43ff2cf8766cce488e7c",
+  "__v": 1786,
+  "_themeSettings": {
+    "_colors": {
+      "_labelAlternative": {
+        "@label-alt-text-color": "#454545",
+        "@label-alt-background-color": "#eeeeee"
+      },
+      "_markingAlternative": {
+        "@marking-alt-incorrect-color": "#ed5565",
+        "@marking-alt-correct-color": "#48cfad",
+        "@marking-alt-icon-color": "#ffffff"
+      },
+      "_captionAlternative": {
+        "@caption-alt-text-color": "#454545",
+        "@caption-alt-background-color": "#eeeeee"
+      },
+      "_attemptsCounterAlternative": {
+        "@attempts-counter-alt-text-color": "#454545",
+        "@attempts-counter-alt-border-color": "#454545",
+        "@attempts-counter-alt-background-color": "#ffffff"
+      },
+      "_buttonAlternative": {
+        "@button-alt-text-disabled-color": "#ccd1d9",
+        "@button-alt-text-hover-color": "#ffffff",
+        "@button-alt-text-color": "#ffffff",
+        "@button-alt-border-disabled-color": "#aab2bd",
+        "@button-alt-border-hover-color": "#046d80",
+        "@button-alt-border-color": "#046d80",
+        "@button-alt-background-disabled-color": "#aab2bd",
+        "@button-alt-background-hover-color": "#046d80",
+        "@button-alt-background-color": "#046d80"
+      },
+      "_componentItemAlternative": {
+        "@component-item-alt-body-background-color": "#eeeeee",
+        "@component-item-alt-body-text-color": "#454545",
+        "@component-item-alt-title-text-color": "#454545",
+        "@component-item-alt-text-visited-color": "#ffffff",
+        "@component-item-alt-text-disabled-color": "#ccd1d9",
+        "@component-item-alt-text-selected-color": "#ffffff",
+        "@component-item-alt-text-hover-color": "#ffffff",
+        "@component-item-alt-text-color": "#3498db",
+        "@component-item-alt-border-visited-color": "#5d9cec",
+        "@component-item-alt-border-disabled-color": "#aab2bd",
+        "@component-item-alt-border-selected-color": "#5d9cec",
+        "@component-item-alt-border-hover-color": "#5d9cec",
+        "@component-item-alt-border-color": "#eeeeee",
+        "@component-item-alt-background-visited-color": "#5d9cec",
+        "@component-item-alt-background-disabled-color": "#aab2bd",
+        "@component-item-alt-background-selected-color": "#5d9cec",
+        "@component-item-alt-background-hover-color": "#5d9cec",
+        "@component-item-alt-background-color": "#eeeeee"
+      },
+      "_componentAlternative": {
+        "@component-alt-instruction-text-color": "#454545",
+        "@component-alt-body-text-color": "#666666",
+        "@component-alt-title-text-color": "#454545"
+      },
+      "_contentRowAlternative": {
+        "@content-row-alt-border-color": "#ecf0f1",
+        "@content-row-alt-body-text-color": "#666666",
+        "@content-row-alt-title-text-color": "#454545"
+      },
+      "_achievements": {
+        "@achievements-lives-color": "#ed5565",
+        "@achievements-stars-color": "#ffce54",
+        "@achievements-points-color": "#48cfad"
+      },
+      "_notificationBadge": {
+        "@notification-badge-text-color": "#FFFFFF",
+        "@notification-badge-background-color": "#da4453"
+      },
+      "_loading": {
+        "@loading-text-color": "#414141"
+      },
+      "_marking": {
+        "@marking-incorrect-color": "#ed5565",
+        "@marking-correct-color": "#48cfad",
+        "@marking-icon-color": "#ffffff"
+      },
+      "_progressBar": {
+        "@progress-bar-text-color": "#414141",
+        "@progress-bar-border-color": "#ecf0f1",
+        "@progress-bar-indicator-color": "#000053",
+        "@progress-bar-background-color": "#e0e0e8"
+      },
+      "_score": {
+        "@score-label-color": "#414141",
+        "@score-text-color": "#ffffff",
+        "@score-background-color": "#414141"
+      },
+      "_chart": {
+        "@chart-highlight-color": "#000053",
+        "@chart-label-color": "#454545",
+        "@chart-text-color": "#454545",
+        "@chart-background-color": "#ccd1d9"
+      },
+      "_label": {
+        "@label-text-color": "#454545",
+        "@label-background-color": "#ebecee"
+      },
+      "_caption": {
+        "@caption-text-color": "#454545",
+        "@caption-background-color": "#ebecee"
+      },
+      "_collection": {
+        "@collection-item-footer-text-color": "#414141",
+        "@collection-item-footer-background-color": "#ebecee",
+        "@collection-item-text-color": "#414141",
+        "@collection-item-background-color": "#ffffff"
+      },
+      "_list": {
+        "@list-text-color": "#454545",
+        "@list-background-odd-color": "#d6d7d8",
+        "@list-background-color": "#ebecee"
+      },
+      "_attemptsCounter": {
+        "@attempts-counter-text-color": "#999999",
+        "@attempts-counter-border-color": "#999999",
+        "@attempts-counter-background-color": "#ffffff"
+      },
+      "_footer": {
+        "@footer-counter-text-color": "#414141",
+        "@footer-counter-background-color": "#ebecee",
+        "@footer-link-text-hover-color": "#ffffff",
+        "@footer-link-text-color": "#414141",
+        "@footer-link-background-hover-color": "#414141",
+        "@footer-link-background-color": "#ffffff",
+        "@footer-background-color": "#414141"
+      },
+      "_buttonWarning": {
+        "@button-warning-text-disabled-color": "#bdc3c7",
+        "@button-warning-text-hover-color": "#ffffff",
+        "@button-warning-text-color": "#FFFFFF",
+        "@button-warning-border-disabled-color": "#7f8c8d",
+        "@button-warning-border-hover-color": "#c71528",
+        "@button-warning-border-color": "#e74c3c",
+        "@button-warning-background-disabled-color": "#7f8c8d",
+        "@button-warning-background-hover-color": "#c71528",
+        "@button-warning-background-color": "#e74c3c"
+      },
+      "_button": {
+        "@button-text-disabled-color": "#ffffff",
+        "@button-text-hover-color": "#ffffff",
+        "@button-text-color": "#ffffff",
+        "@button-border-disabled-color": "#414141",
+        "@button-border-hover-color": "#414141",
+        "@button-border-color": "#000053",
+        "@button-background-disabled-color": "#414141",
+        "@button-background-hover-color": "#414141",
+        "@button-background-color": "#000053"
+      },
+      "_notify": {
+        "@notify-button-text-hover-color": "#ffffff",
+        "@notify-button-text-color": "#ffffff",
+        "@notify-button-border-hover-color": "#000053",
+        "@notify-button-border-color": "#000053",
+        "@notify-button-background-hover-color": "#000053",
+        "@notify-button-background-color": "#000053",
+        "@notify-icon-color": "#000053",
+        "@notify-body-text-color": "#666666",
+        "@notify-title-text-color": "#454545",
+        "@notify-background-color": "#ffffff"
+      },
+      "_navigation": {
+        "@navigation-mobile-icon-hover-color": "#000053",
+        "@navigation-mobile-icon-color": "#2c3e50",
+        "@navigation-mobile-background-color": "#ecf0f1",
+        "@navigation-highlight-icon-hover-color": "#ecf0f1",
+        "@navigation-highlight-icon-color": "#ecf0f1",
+        "@navigation-highlight-hover-color": "#000053",
+        "@navigation-highlight-color": "#000053",
+        "@navigation-icon-selected-hover-color": "#000053",
+        "@navigation-icon-selected-color": "#000053",
+        "@navigation-icon-disabled-color": "#A0A1A2",
+        "@navigation-icon-hover-color": "#000053",
+        "@navigation-icon-color": "#ecf0f1",
+        "@navigation-background-color": "#1d2b2d"
+      },
+      "_componentItem": {
+        "@component-item-body-background-color": "#ffffff",
+        "@component-item-body-text-color": "#454545",
+        "@component-item-title-text-color": "#424242",
+        "@component-item-text-visited-color": "#ffffff",
+        "@component-item-text-disabled-color": "#ffffff",
+        "@component-item-text-selected-color": "#ffffff",
+        "@component-item-text-hover-color": "#ffffff",
+        "@component-item-text-color": "#ffffff",
+        "@component-item-border-visited-color": "#414141",
+        "@component-item-border-disabled-color": "#414141",
+        "@component-item-border-selected-color": "#000053",
+        "@component-item-border-hover-color": "#414141",
+        "@component-item-border-color": "#000053",
+        "@component-item-background-visited-color": "#414141",
+        "@component-item-background-disabled-color": "#414141",
+        "@component-item-background-selected-color": "#000053",
+        "@component-item-background-hover-color": "#000053",
+        "@component-item-background-color": "#414141"
+      },
+      "_component": {
+        "@component-instruction-text-color": "#454545",
+        "@component-body-text-color": "#666666",
+        "@component-title-text-color": "#454545"
+      },
+      "_contentRow": {
+        "@content-row-border-color": "#ecf0f1",
+        "@content-row-body-text-color": "#666666",
+        "@content-row-title-text-color": "#454545"
+      },
+      "_contentStandOut": {
+        "@content-stand-out-icon-color": "#ffffff",
+        "@content-stand-out-icon-background-color": "#000053",
+        "@content-stand-out-background-color": "#FFFFFF"
+      },
+      "_contentSummary": {
+        "@content-summary-title-background-color": "#000053",
+        "@content-summary-body-text-color": "#666666",
+        "@content-summary-title-text-color": "#ffffff",
+        "@content-summary-background-color": "#ffffff"
+      },
+      "_contentKnowledgeCheck": {
+        "@content-knowledge-check-title-background-color": "#000053",
+        "@content-knowledge-check-body-text-color": "#ffffff",
+        "@content-knowledge-check-title-text-color": "#ffffff",
+        "@content-knowledge-check-background-color": "#ffffff"
+      },
+      "_contentArticle": {
+        "@content-article-border-color": "#000053",
+        "@content-article-body-text-color": "#666666",
+        "@content-article-title-text-color": "#454545",
+        "@content-article-background-color": "#ffffff"
+      },
+      "_contentDefault": {
+        "@content-default-body-text-color": "#666666",
+        "@content-default-title-text-color": "#454545",
+        "@content-default-background-color": "#ffffff"
+      },
+      "_heroImage": {
+        "@hero-body-text-color": "#ffffff",
+        "@hero-title-text-color": "#ffffff"
+      },
+      "_header": {
+        "@header-info-background-color": "#000053",
+        "@header-info-text-color": "#ffffff",
+        "@header-body-text-color": "#ffffff",
+        "@header-title-text-color": "#ffffff",
+        "@header-background-color": "#000053"
+      },
+      "_course": {
+        "@course-background-color": "#f9f9f9"
+      }
+    },
+    "_fonts": {
+      "_componentTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@component-title-font-line-height": 1.25,
+          "@component-title-font-weight": 700,
+          "@component-title-font-size": 25,
+          "@component-title-font-family": "Titillium Web"
+        }
+      },
+      "_contentRowTitle": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@content-row-title-font-line-height": 1.25,
+          "@content-row-title-font-weight": 700,
+          "@content-row-title-font-size": 25,
+          "@content-row-title-font-family": "Titillium Web"
+        }
+      },
+      "_contentTitle": {
+        "_fontFamily": "WorldlyLight",
+        "_fontType": "installed",
+        "_variables": {
+          "@content-title-font-line-height": 1.25,
+          "@content-title-font-weight": 700,
+          "@content-title-font-size": 35,
+          "@content-title-font-family": "WorldlyLight"
+        }
+      },
+      "_header": {
+        "_fontFamily": "WorldlyLight",
+        "_fontType": "installed",
+        "_variables": {
+          "@header-font-line-height": 1.25,
+          "@header-font-weight": 700,
+          "@header-font-size": 45,
+          "@header-font-family": "WorldlyLight"
+        }
+      },
+      "_body": {
+        "_fontFamily": "Titillium Web",
+        "_fontType": "theme",
+        "_variables": {
+          "@body-font-weight": 400,
+          "@body-font-size": 16,
+          "@body-font-family": "Titillium Web"
+        }
+      }
+    },
+    "_articleStyles": {
+      "stand-out": "Stand Out",
+      "summary": "Summary",
+      "knowledge-check": "Knowledge Check",
+      "content": "Content",
+      "default": "Default"
+    },
+    "_isEnabled": true
+  },
+  "_publishSettings": {
+    "_offline": {
+      "_isEnabled": false
+    },
+    "_scorm": {
+      "_reporting": {
+        "_onAssessmentFailure": "incomplete",
+        "_onTrackingCriteriaMet": "completed"
+      },
+      "_tracking": {
+        "_shouldSubmitScore": false,
+        "_requireAssessmentPassed": false,
+        "_requireCourseCompleted": true
+      },
+      "_shouldUseScrollFix": false,
+      "_shouldUsePopup": false,
+      "_scormVersion": "1.2",
+      "_isEnabled": true
+    },
+    "_tracker": {
+      "_pushData": "/api/usersCourse",
+      "_getData": "/api/usersCourse",
+      "_login": "/api/login",
+      "_auth": "/api/isAuthenticated",
+      "_isEnabled": false
+    }
+  },
+  "_assets": [
+    {
+      "description": "",
+      "title": "2017 PPR Handbook - Professional Managers",
+      "_assetId": "5a03d3b72cf8766cce48883c",
+      "_objectId": "5a1b43ff2cf8766cce488e7c",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "file"
+      },
+      "_id": "5a1b43ff2cf8766cce488e7f"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_pdf_change-the-course_university-report_2017",
+      "_assetId": "5a175cb82cf8766cce488d5a",
+      "_objectId": "5a1b43ff2cf8766cce488e7c",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "file"
+      },
+      "_id": "5a1b44002cf8766cce488e80"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_pdf_what-is-sexual-assault",
+      "_assetId": "5a175ea72cf8766cce488d69",
+      "_objectId": "5a1b43ff2cf8766cce488e7c",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "file"
+      },
+      "_id": "5a1b44002cf8766cce488e85"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_bm_lady-w-logo",
+      "_assetId": "5a1769432cf8766cce488d81",
+      "_objectId": "5a1b44002cf8766cce488e86",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b44002cf8766cce488e8a"
+    },
+    {
+      "description": "",
+      "title": "114651_du_comp_rtd_bm_winter-girl",
+      "_assetId": "5a15033c2cf8766cce488c0d",
+      "_objectId": "5a1b44002cf8766cce488e87",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "5a1b44002cf8766cce488e8b"
+    },
+    {
+      "description": "",
+      "title": "114651_du_comp_rtd_bm_worried-girl",
+      "_assetId": "5a1503912cf8766cce488c0f",
+      "_objectId": "5a1b44002cf8766cce488e88",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b44002cf8766cce488e8c"
+    },
+    {
+      "description": "",
+      "title": "114651_du_comp_rtd_bm_sad-girl",
+      "_assetId": "5a1503cd2cf8766cce488c11",
+      "_objectId": "5a1b44002cf8766cce488e89",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b44002cf8766cce488e8d"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_hero_lady",
+      "_assetId": "5a163d002cf8766cce488c37",
+      "_objectId": "5a1b44002cf8766cce488e8f",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "5a1b44002cf8766cce488e94"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_hero_worried-man",
+      "_assetId": "5a1636c82cf8766cce488c25",
+      "_objectId": "5a1b44002cf8766cce488e91",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "5a1b44002cf8766cce488e95"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_hero_worried-man",
+      "_assetId": "5a1636c82cf8766cce488c25",
+      "_objectId": "5a1b44002cf8766cce488e91",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b44002cf8766cce488e9c"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_hero_lady",
+      "_assetId": "5a163d002cf8766cce488c37",
+      "_objectId": "5a1b44002cf8766cce488e8f",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b44002cf8766cce488e9d"
+    },
+    {
+      "description": "",
+      "title": "077867_code-of-conduct_iStock_000056545082_background",
+      "_assetId": "573ad312bb797f9124127bc1",
+      "_objectId": "5a1b44002cf8766cce488e9f",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "5a1b44002cf8766cce488ea2"
+    },
+    {
+      "description": "",
+      "title": "077867_code-of-conduct_iStock_000056545082_background",
+      "_assetId": "573ad312bb797f9124127bc1",
+      "_objectId": "5a1b44002cf8766cce488e9f",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "5a1b44002cf8766cce488ead"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_tr_what-to-do",
+      "_assetId": "5a163f932cf8766cce488c49",
+      "_objectId": "5a1b44002cf8766cce488eac",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "5a1b44002cf8766cce488eaf"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_tr_sexual-harassment",
+      "_assetId": "5a15f7372cf8766cce488c13",
+      "_objectId": "5a1b44012cf8766cce488eb2",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "5a1b44012cf8766cce488eb3"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_tr_what-not-to-do",
+      "_assetId": "5a163fbe2cf8766cce488c4b",
+      "_objectId": "5a1b44002cf8766cce488eac",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "5a1b44012cf8766cce488eb8"
+    },
+    {
+      "description": "",
+      "title": "077867_code-of-conduct_iStock_000056545082_background",
+      "_assetId": "573ad312bb797f9124127bc1",
+      "_objectId": "5a1b44012cf8766cce488eb9",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image"
+      },
+      "_id": "5a1b44012cf8766cce488ebc"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_tr_sexual-assault",
+      "_assetId": "5a15f7502cf8766cce488c15",
+      "_objectId": "5a1b44012cf8766cce488eb2",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasSmallImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b44012cf8766cce488ebf"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_tr_what-to-do",
+      "_assetId": "5a163f932cf8766cce488c49",
+      "_objectId": "5a1b44012cf8766cce488ec4",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "5a1b44012cf8766cce488ec7"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_tr_what-not-to-do",
+      "_assetId": "5a163fbe2cf8766cce488c4b",
+      "_objectId": "5a1b44012cf8766cce488ec4",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "5a1b44012cf8766cce488eca"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_tr_child-sexual-abuse",
+      "_assetId": "5a15f7602cf8766cce488c17",
+      "_objectId": "5a1b44012cf8766cce488eb2",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasSmallImage": true
+      },
+      "_id": "5a1b44012cf8766cce488ecb"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_stats_02",
+      "_assetId": "5a1627612cf8766cce488c1b",
+      "_objectId": "5a1b44012cf8766cce488ed3",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "5a1b44012cf8766cce488ed6"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_stats_03",
+      "_assetId": "5a1627772cf8766cce488c1d",
+      "_objectId": "5a1b44012cf8766cce488ed3",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b44012cf8766cce488ed9"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_stats_04",
+      "_assetId": "5a1627832cf8766cce488c1f",
+      "_objectId": "5a1b44012cf8766cce488ed3",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "5a1b44012cf8766cce488eda"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_stats_05",
+      "_assetId": "5a1627962cf8766cce488c21",
+      "_objectId": "5a1b44012cf8766cce488ed3",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b44012cf8766cce488edb"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_stats_01",
+      "_assetId": "5a1627f22cf8766cce488c23",
+      "_objectId": "5a1b44012cf8766cce488ed3",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "5a1b44012cf8766cce488edc"
+    },
+    {
+      "description": "",
+      "title": "114651_du_what-is-sexual-assault",
+      "_assetId": "5a1b4b472cf8766cce488ee4",
+      "_objectId": "5a1b43ff2cf8766cce488e7c",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "file"
+      },
+      "_id": "5a1b4b592cf8766cce488ee5"
+    },
+    {
+      "description": "",
+      "title": "114651_du_looking-after-yourself",
+      "_assetId": "5a1b4b6a2cf8766cce488ee6",
+      "_objectId": "5a1b43ff2cf8766cce488e7c",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "file"
+      },
+      "_id": "5a1b4b712cf8766cce488ee7"
+    },
+    {
+      "description": "",
+      "title": "114651_du_responding-to-sexual-assault",
+      "_assetId": "5a1b4b852cf8766cce488ee8",
+      "_objectId": "5a1b43ff2cf8766cce488e7c",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "file"
+      },
+      "_id": "5a1b4b8e2cf8766cce488ee9"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_hero_sad-lady_v2",
+      "_assetId": "5a1b503f2cf8766cce488eee",
+      "_objectId": "5a1b44002cf8766cce488ea0",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_type": "image",
+        "_hasLargeImage": true
+      },
+      "_id": "5a1b50442cf8766cce488eef"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_hero_stoic-lady_v2",
+      "_assetId": "5a1b558f2cf8766cce488ef0",
+      "_objectId": "5a1b44002cf8766cce488eae",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b55a02cf8766cce488ef1"
+    },
+    {
+      "description": "",
+      "title": "du_comp_rtd_hs_helping-victum_v2",
+      "_assetId": "5a1b6f0f2cf8766cce488ef2",
+      "_objectId": "5a1b44002cf8766cce488ea8",
+      "_courseId": "5a1b43ff2cf8766cce488e7c",
+      "_filter": {
+        "_hasLargeImage": true,
+        "_type": "image"
+      },
+      "_id": "5a1b6f1c2cf8766cce488ef3"
+    }
+  ],
+  "_components": [
+    "videoStream",
+    "textReveal",
+    "narrative",
+    "accordion",
+    "text",
+    "hotgraphic",
+    "dragAndDrop",
+    "mcq"
+  ],
+  "_extensions": [
+    "branding",
+    "about",
+    "courseNavigation",
+    "resources",
+    "scorm"
+  ]
+}

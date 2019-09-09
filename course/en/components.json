@@ -1,0 +1,1610 @@
+[
+  {
+    "_id": "5a1b44002cf8766cce488e96",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e93",
+    "_layout": "full",
+    "_component": "videoStream",
+    "__v": 0,
+    "instruction": "Select the play icon to watch the video.<br><br>",
+    "_media": {
+      "_source": "https://www.youtube.com/watch?v=zRfgy53bWIw",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "youtube",
+    "_setCompletionOn": "inview",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488eb2",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488eb0",
+    "_layout": "full",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "body": "<p>Sexual harm is any form of unwanted sexual behaviour. At RMIT, we define sexual harm to include incidents of sexual assault and sexual harassment.</p><p><br></p><p>For further information and resources relating to sexual harm, see the ‘Resources and links’ section of this module.&nbsp;</p>",
+    "instruction": "Select each tile to learn more.<br>&nbsp;",
+    "_numberOfColumns": 3,
+    "_items": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a15f7372cf8766cce488c13/small/3699f2fc4c92096cfeb68bb8c04cbc72.png",
+          "alt":"Sexual Harassment"
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p style=\"text-align: center;\"><b>Sexual harassment</b><br></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Sexual harassment is defined as:</p><p style=\"text-align: left;\"><br></p><ul><li style=\"text-align: left;\">an unwelcome sexual advance</li><li style=\"text-align: left;\">an unwelcome request for sexual favours</li><li style=\"text-align: left;\">any other unwelcome conduct of a sexual nature that a reasonable person could anticipate to be offensive, humiliating and/or intimidating in the circumstances.</li></ul><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Behaviours that are considered sexual harassment include:</p><p style=\"text-align: left;\"><br></p><ul><li style=\"text-align: left;\">leering, sexually explicit conversations and suggestive comments or jokes about a person’s appearance or body</li><li style=\"text-align: left;\">unnecessary physical familiarity, such as deliberately brushing up against a person</li><li style=\"text-align: left;\">persistent unwelcome social invitations, requests for dates or intrusive questions about a person’s private life</li><li style=\"text-align: left;\">sending sexually explicit messages or distributing sexually offensive messages or material.</li></ul><div style=\"text-align: left;\"><font color=\"#434a54\"><br></font></div><p style=\"text-align: left;\">Sexual harassment can also occur when the workplace culture permits general sexual banter, innuendo, sexually explicit jokes or the display of pornographic materials. Sexual harassment could be a single incident or a series of incidents.&nbsp;</p>",
+        "_id": "5a14fc1f2cf8766cce488bef",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a15f7502cf8766cce488c15/small/e295c335c4c51a53551daef320656b87.png",
+          "alt":"Sexual Assault"
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p style=\"text-align: center;\"><b>Sexual assault</b><br></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">At RMIT, our policy defines sexual assault as any behaviour of a sexual nature that:</p><p style=\"text-align: left;\"><br></p><ul><li style=\"text-align: left;\">makes a person feel uncomfortable, threatened, intimidated or scared</li><li style=\"text-align: left;\">is non-consensual</li><li style=\"text-align: left;\">applies emotional, psychological or physical force or coercion.</li></ul><div style=\"text-align: left;\"><font color=\"#434a54\"><br></font></div><p style=\"text-align: left;\">Behaviours that are considered sexual assault include:</p><p style=\"text-align: left;\"><br></p><ul><li style=\"text-align: left;\">rape</li><li style=\"text-align: left;\">unwanted touching of a sexual nature</li><li style=\"text-align: left;\">indecent exposure</li><li style=\"text-align: left;\">stalking and voyeurism</li><li style=\"text-align: left;\">being forced to watch or participate in pornography.</li></ul><div style=\"text-align: left;\"><font color=\"#434a54\"><br></font></div>",
+        "itemIndex": 1,
+        "_id": "5a14fc202cf8766cce488bf0"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a15f7602cf8766cce488c17/small/d35fc97e924faab4b0e9478e8b5a85da.png",
+          "alt":"Child sexual abuse"
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p style=\"text-align: center;\"><b>Child sexual abuse</b><br></p><p><br></p><p style=\"text-align: left;\">Child sexual abuse is any act which exposes or involves a child in sexual activity beyond their understanding or contrary to accepted community standards.</p><p style=\"text-align: left;\"><br></p><span style=\"\"><div style=\"text-align: left;\"><span style=\"color: rgb(67, 74, 84);\">In Victoria, the law around sexual activity with a person under 18 years old states:</span></div></span><div><p style=\"text-align: left;\"><font color=\"#434a54\"><br></font></p><ul><li style=\"text-align: left;\">It is illegal to have sex with, touch sexually or perform a sexual act in front of a person under the age of 12.</li><li style=\"text-align: left;\">It is illegal to have sex with or touch a person sexually if they are between the ages of 12 and 15 unless your age is within two years of theirs.</li><li style=\"text-align: left;\">It is illegal to have sex with or sexually touch a person between the ages of 16 and 17 if you are their carer or supervisor (e.g. you are their teacher, youth worker, doctor, sports coach or foster carer).</li></ul><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">For further information see the ‘Fact Sheet: What is sexual assault?’ in the 'Resources and links’ section of this module.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">It is also a criminal offence to groom a child or young person. Grooming is when someone tries to build a relationship or gain the trust of a child or young person for some kind of sexual activity. For example:</p><p style=\"text-align: left;\"><span style=\"\"><br></span></p><ul><li style=\"text-align: left;\">inappropriate ‘accidental’ touching</li><li style=\"text-align: left;\">inappropriate gift-giving or attention</li><li style=\"text-align: left;\">exposing the child to pornography or sexual acts (openly or ‘accidentally’)</li><li style=\"text-align: left;\">talking about sex inappropriately in front of a child</li><li style=\"text-align: left;\">manipulating a child through threats or misuse of authority.</li></ul><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">The Victorian State Government has set minimum standards for universities (the Child Safe Standards). For further information about RMIT’s commitment to meeting these standards please see the ‘Resources and links’ section of this module</p></div>",
+        "title": "",
+        "_id": "5a14fc212cf8766cce488bf1",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldCenterCaption": false,
+    "_shouldDisplayCaptionOverGraphic": false,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ed3",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ed1",
+    "_layout": "full",
+    "_component": "narrative",
+    "__v": 0,
+    "body": "<p>The following statistics are drawn from the Australian Human Rights Commission’s national report on sexual assault and sexual harassment at Australian universities – ‘Change the Course’. The survey that informed this report was completed by 579 RMIT students in 2016. For further information see the ‘Change the Course: National Report on Sexual Assault and Sexual Harassment at Australian Universities’ report in the ‘Resources and links’ section of this module.</p>",
+    "instruction": "Select the arrows in the frame below to reveal more.<br><br>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a1627f22cf8766cce488c23/large/29be6cfbc8cc39cc7f161d6408550134.png",
+          "alt":"46% of RMIT participants had experienced some form of sexual harrassment in the last year, either at RMIT or in the community."
+        },
+        "_id": "5a14fe1a2cf8766cce488bf6",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a1627612cf8766cce488c1b/large/220ccf65d7af1db206b1c44138b21431.png",
+          "alt":"27% of respondents had experienced sexual harassment at RMIT in 2016."
+        },
+        "itemIndex": 1,
+        "_id": "5a14fe262cf8766cce488bf8"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a1627772cf8766cce488c1d/large/d077c3fab818cd7dea8e592a296bef37.png",
+          "alt":"7.4% of respondents were the victims of sexual assult in 2015 and/or 2016, either at RMIT or in the community."
+        },
+        "_id": "5a14fe2a2cf8766cce488bfa",
+        "itemIndex": 2
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a1627832cf8766cce488c1f/large/ab392a49150df97bce34a1038e526e13.png",
+          "alt":"95% of respondents who experienced sexual harassment did not make a formal report or complaint to anyone at the university."
+        },
+        "itemIndex": 3,
+        "_id": "5a14fe312cf8766cce488bfc"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a1627962cf8766cce488c21/large/ba7c528e47aae19b044d358a27c8c8b9.png",
+          "alt":"45% of national survey respondents reported that they had been sexually harassed in a university setting by someone they knew."
+        },
+        "_id": "5a14fe362cf8766cce488bfe",
+        "itemIndex": 4
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e9e",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e9a",
+    "_layout": "full",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p>Sexual harm occurs when a person does not give consent to a sexual activity. There are some dimensions that need to be considered to understand sexual consent.</p>",
+    "instruction": "Select the headings below to reveal more.<br><br>",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "5a14fe662cf8766cce488c01",
+        "title": "Consent",
+        "body": "<p>Sexual consent is when a person gives clear and unambiguous agreement to engage in any sexual activity and expresses that agreement, through mutually understandable words or actions. </p><p><br></p><p>Consent can be withdrawn by any party at any point, and past consent does not constitute consent in the future. </p><p><br></p><p>Consenting to a particular sexual activity does not constitute consent to other sexual activities.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "title": "Free agreement",
+        "body": "<p>Consent can only occur when a person gives free agreement. This means that a person who doesn’t want to engage in a sexual activity but feels as though they can’t say no is unable to give consent.</p><p><br></p><p>A person has not given free agreement or consent if they:</p><p><br></p><ul><li>are afraid they (or someone else) will be harmed if they don’t</li><li>are coerced, tricked or deceived into agreement</li><li>believe they can’t or don’t have the right to say no</li><li>do not have the capacity to give consent.</li></ul>",
+        "_id": "5a14fe8a2cf8766cce488c02",
+        "itemIndex": 1
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p>Sexual consent cannot be given by a person who does not have the capacity to give free agreement. A person does not have the capacity to give consent if they are:</p><p><br></p><ul><li>asleep or unconscious</li><li>significantly intoxicated or affected by drugs</li><li>in distress due to being unwell or otherwise disadvantaged</li><li>unable to understand what they are consenting to due to their age, intellectual or cognitive incapacity</li><li>unlawfully detained or held against their will</li></ul>",
+        "title": "Capacity",
+        "_id": "5a14fea52cf8766cce488c04",
+        "itemIndex": 2
+      }
+    ],
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ee2",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ee1",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p>In 2018 RMIT is launching the ‘Changing the Course’ campaign. Changing the Course will include a range of sexual harm prevention and response initiatives within RMIT.</p><p><br></p><p>Take some time to look at the the Respect. Now. Always campaign and Universities Australia Ten Point Action Plan. You can find more information about the Respect.Now.Always campaign in the ‘Resources and links’ section of this module</p>",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488edf",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ede",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p>RMIT recognises that this is a moment in time to make significant changes in relation to sexual harm. The actions we take now to build a culture of respect will positively change not just our RMIT community but the wider communities in which we live.</p><p><br></p><p>To progress to the next topic, <b>select the title</b> below or <b>select the next topic</b> from the main menu.</p>",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488ea5",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488ea3",
+    "_layout": "full",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p>RMIT has a set of guiding principles to address sexual harm. Explore these principles in the headings below.&nbsp;</p>",
+    "instruction": "Select the headings below to reveal more.<br><br>",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "5a163e392cf8766cce488c40",
+        "title": "Living our Values&nbsp;",
+        "body": "<p>RMIT’s values and culture are positive and strong, and disrespectful behaviour is not accepted. All members of the RMIT community share responsibility for understanding, promoting, enforcing and strengthening RMIT’s behavioural standards.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p>Our responses and actions to people who have experienced sexual harm should not cause further trauma. People making a disclosure will: </p><p><span style=\"\"><br></span></p><ul><li>be believed</li><li>be helped to understand reporting and support options</li><li>be helped to be in control of processes and decisions wherever possible</li><li>be supported in the way they want</li><li>have their privacy respected.&nbsp;</li></ul>",
+        "title": "Promoting a victim survivor-centred response&nbsp;",
+        "_id": "5a163e472cf8766cce488c41",
+        "itemIndex": 1
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "5a163e662cf8766cce488c42",
+        "title": "Stopping defensiveness&nbsp;",
+        "body": "<p>Listening and learning is key—particularly listening to and learning from victim survivors. If, as an institution or as individuals, we have not behaved or responded well in the past, we will own our mistakes, accept criticism, learn and do better.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p>As part of a larger community effort, we will collaborate, consult and also rely on our partnerships with external agencies—such as the sexual assault and family violence sector, police, government departments and Universities Australia—to seek guidance and support to inform our practice and deliver responses.</p><p>We’ve already built a partnership with the Victorian Centre Against Sexual Assault (CASA) to provide specialist counselling and advocacy for students on campus. You can find out more about in the ‘Resources and links’ section of this module</p>",
+        "title": "Strengthening external collaboration&nbsp;",
+        "_id": "5a163e742cf8766cce488c43",
+        "itemIndex": 3
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "itemIndex": 4,
+        "_id": "5a163e842cf8766cce488c44",
+        "title": "Assessing risk and protecting the RMIT community&nbsp;",
+        "body": "After a report of sexual harm is received, we will assess whether there is a risk of further harm to any member of the RMIT community and take reasonable protective action."
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p>RMIT cannot determine whether a criminal act has been committed. RMIT can decide if students or staff have breached RMIT codes of conduct and policies and, if so, what action to take. Accused students or staff will be entitled to procedurally fair implementation of RMIT processes and afforded advice and support consistent with other forms of serious misconduct.</p>",
+        "title": "Enforcing our codes of conduct with procedural fairness&nbsp;",
+        "_id": "5a163e8f2cf8766cce488c45",
+        "itemIndex": 5
+      }
+    ],
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "1-0-0-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488eac",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488ea9",
+    "_layout": "full",
+    "_component": "textReveal",
+    "__v": 0,
+    "_showNavOnTop": true,
+    "body": "<p>If someone makes a disclosure of sexual harm to you, it is important that your initial response is appropriate and always victim survivor-centred. After experiencing sexual harm, the victim survivor needs to:</p><p><br></p><ul><li>be believed</li><li>feel safe</li><li>be assured that it wasn’t their fault.</li></ul><br><p> Explore what to do and what not to do when someone makes a disclosure of sexual harm to you below. </p>",
+    "instruction": "Select each image to reveal more.<br>",
+    "_items": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a163f932cf8766cce488c49/small/33f15d398bf3f285a6236ad519c985ca.png"
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p style=\"text-align: center;\"><font color=\"#434a54\"><b>What to do</b></font></p><p style=\"text-align: center;\"><font color=\"#434a54\"><b><br></b></font></p><ul><li style=\"text-align: left;\">Be supportive, encouraging, open and honest.</li><li style=\"text-align: left;\">Listen to the victim survivor’s story.</li><li style=\"text-align: left;\">Let them express how they feel.</li><li style=\"text-align: left;\">Respect their privacy.</li><li style=\"text-align: left;\">Listen without judging them.</li><li style=\"text-align: left;\">Do not feel the need to question them about the details of what happened</li><li style=\"text-align: left;\">Inform the victim survivor about support services and options for formal reporting.</li><li style=\"text-align: left;\">Allow them to take control and make decisions that are in their best interest at the time.</li><li style=\"text-align: left;\">let the victim survivor know that they can report the matter to the police at any time – no matter how long ago it happened.</li></ul><p style=\"text-align: left; margin: 0px 0px 0px 40px; border: none; padding: 0px;\"><span style=\"\"></span></p>",
+        "itemIndex": 0,
+        "_id": "5a163efd2cf8766cce488c47"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a163fbe2cf8766cce488c4b/small/8870bf9a8f2a5d57066df0de9e105fa4.png"
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p style=\"text-align: center;\"><b>What not to do</b></p><p><br></p><ul><li style=\"text-align: left;\">Tell victim survivors what to do or try to take over the situation.</li><li style=\"text-align: left;\">Make judgements about them or their behaviour</li><li style=\"text-align: left;\">Ask them ‘why’ questions like ‘Why were you there?’ and ‘Why did you trust the perpetrator?’</li><li style=\"text-align: left;\">Get angry on their behalf.</li><li style=\"text-align: left;\">Assume you know how they feel.</li></ul>",
+        "_id": "5a163efe2cf8766cce488c48",
+        "itemIndex": 1
+      }
+    ],
+    "_shouldCenterCaption": false,
+    "_shouldDisplayCaptionOverGraphic": false,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Reveal Title",
+    "_type": "component",
+    "_courseOrder": "1-1-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ec0",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ebd",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p>Sexual harm is never an easy topic to discuss. You may find hearing about someone else’s experience of sexual harm upsetting, difficult or disturbing. This response is not unusual which is why, when you receive a disclosure of sexual harm, it is important that you also look after yourself. If you require assistance, you can seek help at the links below:</p><br><ul><li><a href=\"http://www1.rmit.edu.au/healthandsafety/eap\" target=\"_blank\">RMIT EAP</a></li><li><a href=\"https://www.rmit.edu.au/students/support-and-facilities/student-support/safer-community\" target=\"_blank\">RMIT Safer Community</a></li><li><a href=\"https://www.rmit.edu.au/staff/my-employment/health-safety-and-wellbeing/workplace-health-and-safety\" target=\"_blank\">HR Health, Safety and Wellbeing</a></li><li><a href=\"https://www.casa.org.au/\" target=\"_blank\">Centres Against Sexual Assault (CASA).</a></li></ul>",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "1-2-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ec5",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ec3",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p>Take some time to reflect on RMIT’s guiding principles and how you should respond to disclosures of sexual harm.</p><p><br></p><p>Consider having a discussion with members of your team or your manager about responding behaviourally to disclosures of sexual harm and the different support services that are available to assist you.</p><p><br></p><p>Go to <a href=\"https://rmitportal.pageuppeople.com/\" target=\"_blank\">RMIT DevelopME</a> to register for a face-to-face workshop on Responding to Disclosures of Sexual Assault.</p>",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "1-3-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ec9",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ec8",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p>RMIT has strong guiding principles on how to respond to disclosures of sexual harm. The best way to provide support to someone making a disclosure is to believe them. </p><p><br></p><p>By responding to disclosures of sexual harm in a supportive, non-blaming and compassionate way, you can ensure that you do not cause further trauma to victim survivors.&nbsp;</p><p><br></p><p>To progress to the next topic, <b>select the title</b> below or <b>select the next topic</b> from the main menu.<br></p>",
+    "instruction": "",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "1-4-0-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488ea8",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488ea4",
+    "_layout": "full",
+    "_component": "hotgraphic",
+    "__v": 0,
+    "body": "<p>If a victim survivor makes a disclosure of sexual harm to you, you play an important role in listening without judgement and connecting them with the appropriate support services. For students this is RMIT Safer Community and for staff HR Health Safety and Wellbeing. These services can provide victim survivors with options for support and reporting both at the university and within the community.</p><p><br></p><p>If you are unsure whether something constitutes sexual harassment or sexual assault or unsure how you should report, contact <a href=\"https://www.rmit.edu.au/students/support-and-facilities/student-support/safer-community\" target=\"_blank\">RMIT Safer Community</a> for guidance.</p><p><br></p><p>Explore the options open to victim survivors in the headings below.</p>",
+    "instruction": "Select the icons to reveal more.&nbsp;<br><br>",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 49.65714285714287,
+        "_top": 23.658536585365873,
+        "itemIndex": 0,
+        "_id": "5a1637ac2cf8766cce488c2c",
+        "body": "<p style=\"text-align: left;\">If an RMIT staff member discloses that they have experienced sexual harm, you should encourage them to contact RMIT Human Resources Health and Safety for advice, support and options. Staff can also access the Employee Assistance Program (EAP) for free counselling services.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">RMIT Human Resources Health and Safety staff have also received training in responding to sexual harm and can talk about support options at RMIT.</p>",
+        "title": "Staff support and reporting"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 75.71428571428571,
+        "_top": 60.56910569105691,
+        "body": "<p style=\"text-align: left;\">You should connect students who disclose sexual harm with RMIT Safer Community for advice, support and options. RMIT Safer Community is operated by trained professionals with experience in responding to and providing support to people who have experienced sexual harm. RMIT Safer Community is available during business hours. However, enquiries via phone or email will be responded to the following business day. <br> Any staff member who has received a disclosure of sexual harm from a student is required to contact RMIT Safer Community to ensure:</p><p style=\"text-align: left;\"><br></p><ul><li style=\"text-align: left;\">comprehensive and accurate advice is provided to the student about the supports and options available to them</li><li style=\"text-align: left;\">appropriate support is provided to staff member/s impacted by the disclosure</li><li style=\"text-align: left;\">prevalence data is accurately captured so risk of further harm can be mitigated and systemic issues identified.</li></ul><br><p style=\"text-align: left;\">If the victim does not wish to speak with RMIT Safer Community directly, you must still contact the team to ensure appropriate support and risk management steps are taken. It’s important to be transparent about the steps you are taking and why. E.g. “I want to make sure I’m giving you the right information and support – I’m going to contact a specialist team at RMIT that can help”</p>",
+        "title": "Student support and reporting",
+        "_id": "5a1637692cf8766cce488c2b",
+        "itemIndex": 1
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 49.885714285714286,
+        "_top": 97.35518292682929,
+        "body": "<p style=\"text-align: left;\">You are required to report all incidents of sexual harm involving young people under 18 years old to RMIT Safer Community – even if you have reported to police. If the incident occurred outside business hours you should notify RMIT Campus Safety and Security who will communicate with RMIT Safer Community for follow up support and advice. For more information, review RMIT’s <a href=\"http://mams.rmit.edu.au/iwdyk6i842kz.pdf\" target=\"_blank\">‘Protection of Persons Under 18 Years of Age at RMIT Incident reporting and management process’</a>and <a href=\"https://www.rmit.edu.au/content/dam/rmit/documents/study-with-us/parents/Child%20Safe%20Standards%20Statement%20of%20Commitment.pdf\" target=\"_blank\">Child Safey Statement of Commitment</a>.&nbsp;</p>",
+        "title": "Mandatory reporting for young people under 18 years",
+        "_id": "5a1637c82cf8766cce488c2d",
+        "itemIndex": 2
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 24.057142857142857,
+        "_top": 60.56910569105691,
+        "body": "<p style=\"text-align: left;\">When encouraged to report sexual harm to RMIT Safer Community, a victim survivor may reveal concerns about their privacy and express the wish to remain anonymous.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">If a student victim survivor wishes to remain anonymous, you can inform them that:<br></p><p style=\"text-align: left;\"><br></p><p></p><ul><li style=\"text-align: left;\">if they are under 18 years of age, RMIT is legally obliged to make a report to the police</li><li style=\"text-align: left;\">if they do not wish their identity to be shared, you can withhold their identity when discussing the matter with RMIT Safer Community</li><li style=\"text-align: left;\">they will not be required, forced or obliged to be involved or participate in any formal process, such as investigations or disciplinary hearings</li><li style=\"text-align: left;\">they may choose not to identify the alleged perpetrator when making a report.</li></ul><div style=\"text-align: left;\"><font color=\"#434a54\"><br></font></div><p style=\"text-align: left;\">Victim survivors have the right to report incidents of sexual harm anonymously if they wish; however, you should be transparent about the limits of this confidentiality – if the identity of the student is needed to maintain safety you will be required to provide their details.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">‘In some circumstances I might need to share your identity with RMIT Safer Community because of safety concerns. I will make sure I tell you if I do need to provide your name.”</p>",
+        "title": "Reporting anonymously",
+        "_id": "5a16384e2cf8766cce488c2f",
+        "itemIndex": 3
+      }
+    ],
+    "_graphic": {
+      "src": "course/en/assets/images/5a1b6f0f2cf8766cce488ef2/large/741050062e159545d2d2a9f0dabfd68c.png",
+      "alt":"Reporting anonymously. When encouraged to report sexual harm to RMIT Safer Community, a victim survivor may reveal concerns about their privacy and express the wish to remain anonymous. If a student victim survivor wishes to remain anonymous, you can inform them that: if they are under 18 years of age, RMIT is legally obliged to make a report to the police. if they do not wish their identity to be shared, you can withhold their identity when discussing the matter with RMIT Safer Community. they will not be required, forced or obliged to be involved or participate in any formal process, such as investigations or disciplinary hearings. they may choose not to identify the alleged perpetrator when making a report. Victim survivors have the right to report incidents of sexual harm anonymously if they wish; however, you should be transparent about the limits of this confidentiality – if the identity of the student is needed to maintain safety you will be required to provide their details. ‘In some circumstances I might need to share your identity with RMIT Safer Community because of safety concerns. I will make sure I tell you if I do need to provide your name.”"
+    },
+    "_popupCloseButton": "Close",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Hot Graphic Title",
+    "_type": "component",
+    "_courseOrder": "2-0-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488eb6",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488eb5",
+    "_layout": "full",
+    "_component": "accordion",
+    "__v": 0,
+    "body": "<p>Once a victim survivor has made an informed decision about how to respond to an incident of sexual harm, you can refer them to the most appropriate service.</p><p><br></p><p>Explore information about how to contact the different services available in the sections below.<br></p>",
+    "instruction": "Select the headings below to reveal more.<br><br>",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p>RMIT Safer Community service is the central point of contact for RMIT-based support and sexual assault reporting for student victim survivors. You can contact Safer Community during business hours (Monday to Friday, 9 am to 5 pm).</p><p><br></p><p>Tel: 03 9925 2396</p><p>Email: safercommunity@rmit.edu.au </p><p>(Note: Emails to this address are only read by the staff trained and responsible for responding to your report. Information sent to this email address is treated as confidential.)</p>",
+        "title": "Contacting RMIT Safer Community &nbsp;",
+        "_id": "5a1638cb2cf8766cce488c32",
+        "itemIndex": 0
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p>If you have urgent safety concerns on campus, contact RMIT Campus Safety and Security by calling 03 9925 3333 or using the SafeZone app.<br>In the event of an emergency, or if you or a victim survivor are in immediate danger you should contact emergency services on 000.<br><br>It is important to let RMIT Campus Safety and Security know about any reports to emergency services. RMIT Campus Safety and Security can assist emergency services on campus and let RMIT Safer Community know about after hours reports for follow up. <br><br>Remember that victim survivors are entitled to be supported in the way they want. Wherever possible victim survivors should be helped to be in control of processes and decisions. Victim survivors may be reluctant to speak to the police or want more information or support before they make a report. <b>Therefore, unless there is an immediate risk of harm to a student victim survivor</b> RMIT Safer Community should be the first referral point to discuss reporting options and non-emergency police assistance processes.</p>",
+        "title": "Reporting to security or police",
+        "_id": "5a16390c2cf8766cce488c34",
+        "itemIndex": 1
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p>If the victim survivor is a staff member you can refer them to HR Health, Safety and Wellbeing</p><p><br></p><p>Tel: 03 9925 0600</p><p>Email: healthandsafety@rmit.edu.au</p><p>Staff can also access <a href=\"http://rmit.edu.au/healthandsafety/eap\" target=\"_blank\">Employee Assistance Program</a>.</p>",
+        "title": "Contacting HR Health Safety and Wellbeing",
+        "_id": "5a16390c2cf8766cce488c34",
+        "itemIndex": 2
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "body": "<p>A range of other services exist to support those affected by incidents of sexual harm. If you, the victim survivor or anyone else affected by an incident of sexual harm requires support, you can access the following services.<br>RMIT services include:</p><br><ul><li><a href=\"http://www1.rmit.edu.au/healthandsafety/eap\" target=\"_blank\">RMIT Employee Assistance Program (EAP)</a></li><li><a href=\"  https://www.rmit.edu.au/students/support-and-facilities/student-support/counselling\" target=\"_blank\">RMIT Counselling: student counselling and psychological support.</a></li><li>The RMIT partnership with the <a href=\"https://www.casa.org.au\" target=\"_blank\">Centre Against Sexual Assault (CASA)</a> provides specialist counselling to students on campus (part time service). Contact <a href=\"https://www.rmit.edu.au/students/support-and-facilities/student-support/safer-community\" target=\"_blank\">RMIT Safer Community</a> or <a href=\"https://www.casa.org.au\" target=\"_blank\">CASA House</a> for more details.</li></ul><br><br><p>External services include:</p><br><ul><li><a href=\"https://www.casa.org.au\" target=\"_blank\">Centres Against Sexual Assault (CASA)</a></li><li><a href=\" http://www.sacl.com.au\" target=\"_blank\">Sexual Assault Crisis Line (SACL)</a>: 1800 806 292</li><li><a href=\" https://www.1800respect.org.au \" target=\"_blank\">1800RESPECT</a> (national sexual assault, domestic and family violence counselling service): 1800 737 732.</li></ul>",
+        "title": "Additional support",
+        "_id": "5a1639782cf8766cce488c36",
+        "itemIndex": 3
+      }
+    ],
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Accordion Title",
+    "_type": "component",
+    "_courseOrder": "2-1-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ebe",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488eba",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p>It doesn’t matter if the incident happened recently or a long time ago, or whether it occurred on campus, at a university event, during a placement or away from RMIT. When responding to a disclosure of sexual harm support is always available.<br></p><p><br></p><p>To progress to the next topic, <b>select the title</b> below or <b>select the next topic</b> from the main menu.<br></p>",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "2-2-0-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e98",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e92",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p>The following scenario contains information about an incident of sexual assault. If the information in this case study causes you distress or triggers concerns for you, please seek assistance from the <a href=\"http://www1.rmit.edu.au/healthandsafety/eap\" target=\"_blank\">EAP</a>.</p>",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "3-0-0-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488ea0",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e9b",
+    "_layout": "full",
+    "_component": "hotgraphic",
+    "__v": 0,
+    "instruction": "",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 15.257142857142858,
+        "_top": 85.53113553113552,
+        "body": "<p style=\"text-align: left;\">‘It was getting late and I had been drinking for most of the evening. I knew I wasn’t going to be able to drive home.’</p>",
+        "_id": "5a165aa62cf8766cce488c58",
+        "itemIndex": 0
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 28.514285714285702,
+        "_top": 85.53113553113552,
+        "itemIndex": 1,
+        "_id": "5a165ab62cf8766cce488c59",
+        "body": "<p style=\"text-align: left;\">‘When I realised I had drunk too much to drive, I decided I would stay the night. I’d had a bit to drink and felt quite drowsy, so a friend told me to sleep in the spare room.’</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 41.65714285714286,
+        "_top": 85.16483516483515,
+        "body": "<p style=\"text-align: left;\">‘I remember speaking to the person who assaulted me earlier during the night. He was nice and I liked him, so I gave him my phone number. I never agreed to have sex with him.’</p>",
+        "_id": "5a165ad22cf8766cce488c5a",
+        "itemIndex": 2
+      }
+    ],
+    "_graphic": {
+      "src": "course/en/assets/images/5a1b503f2cf8766cce488eee/large/e2a81caa43b2da5ceea20502af217ab3.jpg"
+    },
+    "_popupCloseButton": "Close",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Hot Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-1-0-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488eae",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488eaa",
+    "_layout": "full",
+    "_component": "hotgraphic",
+    "__v": 0,
+    "instruction": "",
+    "_items": [
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 60.971428571428575,
+        "_top": 85.81120565556365,
+        "body": "<p style=\"text-align: left;\">‘Rachel felt embarrassed and ashamed about what had happened so she was reluctant to contact police. She didn’t want to tell her family because she was worried about how they might react.’</p>",
+        "_id": "5a165b3d2cf8766cce488c5e",
+        "itemIndex": 0
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 74.91428571428571,
+        "_top": 85.98295349268112,
+        "itemIndex": 1,
+        "_id": "5a165b4a2cf8766cce488c5f",
+        "body": "<p style=\"text-align: left;\">‘Rachel was concerned about reporting the assault because she had been drinking. I think she feels as though it was her fault because she was drunk.’</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 88.97142857142855,
+        "_top": 85.74279157936748,
+        "body": "<p style=\"text-align: left;\">‘When Rachel woke up during the assault, she was so shocked and scared that she couldn’t speak. She couldn’t say no. She’s worried that this might imply her consent.’</p>",
+        "_id": "5a165b532cf8766cce488c60",
+        "itemIndex": 2
+      }
+    ],
+    "_graphic": {
+      "src": "course/en/assets/images/5a1b558f2cf8766cce488ef0/large/1eb87cbb7acdf81820907ef438325796.jpg"
+    },
+    "_popupCloseButton": "Close",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Hot Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-2-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ec4",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ec2",
+    "_layout": "full",
+    "_component": "dragAndDrop",
+    "__v": 0,
+    "body": "<p>How Riya responds behaviourally to Rachel’s disclosure of sexual harm is important. After experiencing the assault, Rachel needs to feel safe, believed and assured that it wasn’t her fault.</p><p><br></p><p>Check your understanding of how to respond behaviourally to disclosures of sexual harm by dragging each of the possible behaviours Riya could demonstrate to the correct zone.</p>",
+    "instruction": "Drag each item to the correct zone, then select submit.&nbsp;<br><br>",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>That’s right.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: left;\">You have correctly identified which behaviours Riya should and shouldn't demonstrate following Rachel’s disclosure of sexual harm.<b><br></b></p>",
+      "_partlyCorrect": {
+        "notFinal": "<p style=\"text-align: center;\"><b>That’s not quite right.</b></p><p><br></p><p style=\"text-align: left;\">You have not correctly identified all of the behaviours Riya should and shouldn’t demonstrate following Rachel’s disclosure of sexual harm. Remember that Riya’s behavioural response to Rachel’s disclosure should be victim-centred and help Rachel to feel safe, believed and assured it’s not her fault. Close this window and try again.</p>",
+        "final": "<p style=\"text-align: center;\"><b>That’s still not quite right.</b><br></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: left;\">You have not correctly identified all of the behaviours Riya should and shouldn’t demonstrate following Rachel’s disclosure of sexual harm. Remember that Riya’s behavioural response to Rachel’s disclosure should be victim-centred and help Rachel to feel safe, believed and assured it’s not her fault. Review the material about responding behaviourally to disclosures of sexual harm in topic two of this module.<br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>That’s incorrect.</b></p><p><br></p><p style=\"text-align: left;\">You have not correctly identified the behaviours Riya should and shouldn’t demonstrate following Rachel’s disclosure of sexual harm. Remember that Riya’s behavioural response to Rachel’s disclosure should be victim-centred and help Rachel to feel safe, believed and assured it’s not her fault. Review the material about responding behaviourally to disclosures of sexual harm in topic two of this module.<br></p>",
+        "notFinal": "<p style=\"text-align: center;\"><b>That’s not quite right.</b></p><p><br></p><p style=\"text-align: left;\">You have not correctly identified the behaviours Riya should and shouldn’t demonstrate following Rachel’s disclosure of sexual harm. Remember that Riya’s behavioural response to Rachel’s disclosure should be victim-centred and help Rachel to feel safe, believed and assured it’s not her fault. Close this window and try again.<br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_dropZonelayout": "drop-zones-bottom",
+    "_items": [
+      {
+        "_correctDropZones": [
+          "5a165b8b2cf8766cce488c62"
+        ],
+        "itemIndex": 0,
+        "_id": "5a165ba82cf8766cce488c66",
+        "text": "Be supportive of Rachel"
+      },
+      {
+        "_correctDropZones": [
+          "5a165b972cf8766cce488c64"
+        ],
+        "text": "Take over the situation and tell Rachel she should go to police",
+        "_id": "5a165bbd2cf8766cce488c67",
+        "itemIndex": 1
+      },
+      {
+        "_correctDropZones": [
+          "5a165b972cf8766cce488c64"
+        ],
+        "itemIndex": 2,
+        "_id": "5a165bca2cf8766cce488c68",
+        "text": "Ask Rachel ‘why’ questions like ‘why did you drink so much?’"
+      },
+      {
+        "_correctDropZones": [
+          "5a165b8b2cf8766cce488c62"
+        ],
+        "text": "Listen to Rachel’s story",
+        "_id": "5a165bd42cf8766cce488c69",
+        "itemIndex": 3
+      },
+      {
+        "_correctDropZones": [
+          "5a165b8b2cf8766cce488c62"
+        ],
+        "itemIndex": 4,
+        "_id": "5a165bdc2cf8766cce488c6a",
+        "text": "Let Rachel express how she feels"
+      },
+      {
+        "_correctDropZones": [
+          "5a165b972cf8766cce488c64"
+        ],
+        "text": "Get angry on Rachel’s behalf",
+        "_id": "5a165be72cf8766cce488c6b",
+        "itemIndex": 5
+      },
+      {
+        "_correctDropZones": [
+          "5a165b8b2cf8766cce488c62"
+        ],
+        "itemIndex": 6,
+        "_id": "5a165bf02cf8766cce488c6c",
+        "text": "Respect Rachel’s privacy"
+      },
+      {
+        "_correctDropZones": [
+          "5a165b972cf8766cce488c64"
+        ],
+        "text": "Assume she knows how Rachel feels",
+        "_id": "5a165bfc2cf8766cce488c6d",
+        "itemIndex": 7
+      }
+    ],
+    "_dropZones": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a163f932cf8766cce488c49/small/33f15d398bf3f285a6236ad519c985ca.png"
+        },
+        "_shouldUseCoverBackgroundSize": true,
+        "itemIndex": 0,
+        "_id": "5a165b8b2cf8766cce488c62"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5a163fbe2cf8766cce488c4b/small/8870bf9a8f2a5d57066df0de9e105fa4.png"
+        },
+        "_shouldUseCoverBackgroundSize": true,
+        "_id": "5a165b972cf8766cce488c64",
+        "itemIndex": 1
+      }
+    ],
+    "_shouldZonesRejectIncorrect": false,
+    "_canAutoSubmit": false,
+    "_shouldDisplayAttempts": true,
+    "_attempts": 2,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Drag and Drop Title",
+    "_type": "component",
+    "_courseOrder": "3-3-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ecf",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ecd",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p>Now that Rachel has disclosed the sexual assault to Riya, what should Riya do about reporting the assault?</p>",
+    "instruction": "Select the two correct answers, then select submit.<br>&nbsp;",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>That’s incorrect.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: left;\">Riya should encourage Rachel to make a report to RMIT Safer Community, and she should tell Rachel that it is mandatory for Riya to report the disclosure as well. Riya should explain to Rachel that Rachel can remain anonymous when reporting. Review the material about responding procedurally to disclosures of sexual harm in topic three of this module.<b><br></b></p>",
+        "notFinal": "<p style=\"text-align: center;\"><b>That’s not right.</b></p><p><br></p><p style=\"text-align: left;\">Review how you think Riya should report the disclosure of sexual assault, and have another try. Close this window and try again.<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "final": "<p style=\"text-align: center;\"><b>That’s still not quite right.</b></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: left;\">Riya should encourage Rachel to make a report to RMIT Safer Community, and she should tell Rachel that it is mandatory for Riya to report the disclosure as well. Riya should explain to Rachel that Rachel can remain anonymous when reporting. Riya can seek support and information from an HDCO if she wishes. Review the material about responding procedurally to disclosures of sexual harm in topic three of this module.<b><br></b></p>",
+        "notFinal": "<p style=\"text-align: center;\"><b style=\"color: rgb(67, 74, 84);\">That’s not quite right.</b><br><p style=\"text-align: center;\"><br></p><p style=\"text-align: left;\">Review how you think Riya should report the disclosure of sexual assault, and have another try. Close this window and try again.<br></p></p>"
+      },
+      "correct": "<div style=\"text-align: center;\"><b style=\"color: rgb(67, 74, 84);\">That’s right.</b></div><p><br></p><p style=\"text-align: left;\">Riya should encourage Rachel to make a report to RMIT Safer Community and help her to do so. As this incident concerns a sexual assault, Riya should also tell Rachel that it is mandatory for Riya to report the disclosure to RMIT Safer Community, but she will not reveal Rachel’s identity if Rachel wishes to remain anonymous.<br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 0,
+        "_id": "5a08cc352cf8766cce4889fc",
+        "text": "Encourage Rachel to speak to RMIT Safer Community about options for support and reporting",
+        "_feedback": "<p style=\"text-align: center;\"><b>That’s correct.</b>&nbsp;</p><p><br></p><p style=\"text-align: left;\">Your answer indicates that you believe this is not a conflict of interest. Have another look at the scenario and the things to consider to ensure that there is no conflict of interest with your niece’s promotion. Close this window and try again.</p>"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedback": "<p style=\"text-align: center;\"><b>That’s correct.&nbsp;</b></p><p><br></p><p style=\"text-align: left;\">Your answer indicates that you believe that as there is a management plan in place, nothing needs to be done to manage the conflict of interest. Have another look at the scenario and the things to consider to ensure that there is no conflict of interest with your niece’s promotion. Close this window and try again.</p>",
+        "text": "Tell Rachel that she would like to speak with RMIT Safer Community to ensure she is providing her with the best support she can, then make a report to RMIT Safer Community",
+        "_id": "5a08cc582cf8766cce4889fd",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 2,
+        "_id": "5a08cc692cf8766cce4889fe",
+        "text": "Report the assault to police",
+        "_feedback": "<p style=\"text-align: center;\"><b>That’s incorrect.&nbsp;</b></p><p><br></p><p style=\"text-align: left;\">You need to work with your manager to complete a new COI Declaration and a COI Management Plan. The management plan will include that your niece will not report to you and detail what the reporting line will be and how any other potential conflicts of interest will be dealt with, including regular review and monitoring.</p>"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedback": "<p style=\"text-align: center;\"><b>That’s partially correct.&nbsp;</b></p><p><br></p><p style=\"text-align: left;\">Your answer indicates that you believe this is all you need to do to ensure there is no conflict of interest. Have another look at the scenario and the things to consider to ensure that there is no conflict of interest with your niece’s promotion. Close this window and try again.</p>",
+        "text": "Report the assault to RMIT Safer Community without telling Rachel",
+        "_id": "5a08cc7f2cf8766cce4889ff",
+        "itemIndex": 3
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": true,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 3,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "3-4-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ed4",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ed2",
+    "_layout": "full",
+    "_component": "mcq",
+    "__v": 0,
+    "body": "<p>Rachel’s disclosure of sexual assault raised some issues for Riya, and she has been feeling anxious and upset. What options are available for Riya to seek assistance after the disclosure?</p>",
+    "instruction": "Select the two correct answers, then select submit.<br>&nbsp;",
+    "_feedback": {
+      "correct": "<div style=\"text-align: center;\"><b>That’s right.</b></div><p style=\"text-align: center;\"><span style=\"background-color: rgb(255, 255, 255); color: rgb(67, 74, 84);\"><b><br></b></span></p><p style=\"text-align: left;\">Receiving a disclosure of sexual assault can be distressing. Riya should seek assistance from a program like the RMIT Human Resources Health and Safety team or the RMIT EAP  to help her through this trying time.&nbsp;<br></p>",
+      "_partlyCorrect": {
+        "final": "<div style=\"text-align: center;\"><b>That’s still not quite right.</b><br></div><p style=\"text-align: center;\"><br></p><p style=\"text-align: left;\">It is important that Riya seeks assistance to help her through this trying time. She can get help from RMIT supports such as the EAP or from external organisations such as CASA. Review the material about looking after yourself in topic two of this module.<br></p>",
+        "notFinal": "<div style=\"text-align: center;\"><b>That’s not quite right.</b><br></div><p style=\"text-align: center;\"><br></p><p style=\"text-align: left;\">One of the answers you selected may not be the most appropriate course of action for Riya to take. Close this window and try again.<br></p>",
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<div style=\"text-align: center;\"><b>That’s incorrect.</b><br></div><p style=\"text-align: center;\"><br></p><p style=\"text-align: left;\">It is important that Riya seeks assistance to help her through this trying time. She can get help from RMIT supports such as the EAP or from external organisations such as CASA. Review the material about looking after yourself in topic two of this module.<br></p>",
+        "notFinal": "<div style=\"text-align: center;\"><b>That’s not right.</b><br></div><p style=\"text-align: center;\"><br></p><p style=\"text-align: left;\">The answers you selected are not the most appropriate course of action for Riya to take. Close this window and try again.<br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "itemIndex": 0,
+        "_id": "5a165dd42cf8766cce488c6f",
+        "text": "Seek assistance within RMIT from a program such as the RMIT Human Resources Health and Safety team or the EAP"
+      },
+      {
+        "_shouldBeSelected": true,
+        "text": "Seek assistance outside of RMIT from an organisation such as CASA&nbsp;",
+        "_id": "5a165ddc2cf8766cce488c70",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "itemIndex": 2,
+        "_id": "5a165de22cf8766cce488c71",
+        "text": "Call Rachel to discuss her feelings"
+      },
+      {
+        "_shouldBeSelected": false,
+        "text": "Wait to seek assistance, because this is Rachel’s time to get help",
+        "_id": "5a165de82cf8766cce488c72",
+        "itemIndex": 3
+      }
+    ],
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 3,
+    "_useQuestionBank": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "MCQ Title",
+    "_type": "component",
+    "_courseOrder": "3-5-0-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ed8",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44012cf8766cce488ed7",
+    "_layout": "full",
+    "_component": "text",
+    "__v": 0,
+    "body": "<p>At RMIT, we work together to build a strong culture of safety, mutual respect and inclusion to ensure all members of our community can study and work in a safe and supportive environment.</p><p><br></p><p>As a university community, we set strong standards of behaviour, and we all have a responsibility to address attitudes and behaviours that are not acceptable in today’s world. This is not a project with an end date, and RMIT is committed to continuously improving and learning.</p>",
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "3-6-0-0"
+  }
+]

@@ -1,0 +1,1462 @@
+[
+  {
+    "_id": "5a1b44002cf8766cce488e90",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e86",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "New article",
+    "_type": "article",
+    "_courseOrder": "0-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e9f",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e86",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "Defining sexual harm",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "src": "course/en/assets/images/573ad312bb797f9124127bc1/e5f912c5c377fa9fdee4e0a0e2420c18.jpg",
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "src": "course/en/assets/images/573ad312bb797f9124127bc1/e5f912c5c377fa9fdee4e0a0e2420c18.jpg",
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Defining sexual harm",
+    "_type": "article",
+    "_courseOrder": "0-1"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ece",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e86",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "Sexual harm prevalence statistics",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Sexual harm prevalence statistics",
+    "_type": "article",
+    "_courseOrder": "0-2"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e97",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e86",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "Defining consent",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Defining consent",
+    "_type": "article",
+    "_courseOrder": "0-3"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ee0",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e86",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "Reflection",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Reflection",
+    "_type": "article",
+    "_courseOrder": "0-4"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488edd",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e86",
+    "_sortOrder": 5,
+    "__v": 0,
+    "displayTitle": "Final thoughts",
+    "body": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Final thoughts",
+    "_type": "article",
+    "_courseOrder": "0-5"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e91",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e88",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Our guiding principles",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_isEnabled": true,
+        "_graphic": {
+          "_small": {
+            "src": "course/en/assets/images/5a1636c82cf8766cce488c25/small/7902ba3ac1cea5c58f058bd705e30a86.jpg",
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "src": "course/en/assets/images/5a1636c82cf8766cce488c25/large/7902ba3ac1cea5c58f058bd705e30a86.jpg",
+            "_shouldRepeat": false,
+            "_height": 300
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Our guiding principles",
+    "_type": "article",
+    "_courseOrder": "1-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488ea7",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e88",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "How to respond behaviourally",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "How to respond behaviourally",
+    "_type": "article",
+    "_courseOrder": "1-1"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ebb",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e88",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "Looking after yourself",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Looking after yourself",
+    "_type": "article",
+    "_courseOrder": "1-2"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ec1",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e88",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "Reflection",
+    "body": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Reflection",
+    "_type": "article",
+    "_courseOrder": "1-3"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ec6",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e88",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "Final thoughts",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Final thoughts",
+    "_type": "article",
+    "_courseOrder": "1-4"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e8f",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e87",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Helping a victim survivor make informed decisions",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_isEnabled": true,
+        "_graphic": {
+          "_small": {
+            "src": "course/en/assets/images/5a163d002cf8766cce488c37/small/a6370c47f2a12fae9e6c7de728b16d7a.jpg",
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "src": "course/en/assets/images/5a163d002cf8766cce488c37/large/a6370c47f2a12fae9e6c7de728b16d7a.jpg",
+            "_shouldRepeat": false,
+            "_height": 300
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Helping a victim survivor make informed decisions",
+    "_type": "article",
+    "_courseOrder": "2-0"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488eb4",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e87",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "How to respond procedurally ",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "How to respond procedurally",
+    "_type": "article",
+    "_courseOrder": "2-1"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488eb7",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e87",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "Final thoughts",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Final thoughts",
+    "_type": "article",
+    "_courseOrder": "2-2"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e8e",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e89",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "New article title",
+    "_type": "article",
+    "_courseOrder": "3-0"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488e99",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e89",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "Rachel’s story",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Rachel’s story",
+    "_type": "article",
+    "_courseOrder": "3-1"
+  },
+  {
+    "_id": "5a1b44002cf8766cce488ea6",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e89",
+    "_sortOrder": 2,
+    "__v": 0,
+    "displayTitle": "Rachel talks to Riya",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Rachel talks to Riya",
+    "_type": "article",
+    "_courseOrder": "3-2"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488eb9",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e89",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "How should Riya react?",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "src": "course/en/assets/images/573ad312bb797f9124127bc1/e5f912c5c377fa9fdee4e0a0e2420c18.jpg",
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "How should Riya react?",
+    "_type": "article",
+    "_courseOrder": "3-3"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ecc",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e89",
+    "_sortOrder": 4,
+    "__v": 0,
+    "displayTitle": "How should Riya report?",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "How should Riya report?",
+    "_type": "article",
+    "_courseOrder": "3-4"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ed0",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e89",
+    "_sortOrder": 5,
+    "__v": 0,
+    "displayTitle": "What should Riya do next?",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "What should Riya do next?",
+    "_type": "article",
+    "_courseOrder": "3-5"
+  },
+  {
+    "_id": "5a1b44012cf8766cce488ed5",
+    "_courseId": "5a1b43ff2cf8766cce488e7c",
+    "_parentId": "5a1b44002cf8766cce488e89",
+    "_sortOrder": 6,
+    "__v": 0,
+    "displayTitle": "Conclusion",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Conclusion",
+    "_type": "article",
+    "_courseOrder": "3-6"
+  }
+]
