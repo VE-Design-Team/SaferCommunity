@@ -197,7 +197,7 @@
     "_isEnabled": true
   },
   "_branding": {
-    "copyright": "<p>original core content ©Deakin University, additional modifications done by ©RMIT University<br></p>",
+    "copyright": "<p>Once you have completed all the sections, go to <a href=\"https://rmit.bridgeapp.com/learner/courses\" target=\"_blank\">My Learning</a> to access your certificate of completion.</p></br><p>Original core content ©Deakin University, additional modifications done by ©RMIT University<br></p>",
     "_shouldPlaceFooterLogosWithCopyright": false,
     "_logos": {
       "_secondaryLogo": {
