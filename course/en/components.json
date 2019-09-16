@@ -989,7 +989,7 @@
     "_layout": "full",
     "_component": "text",
     "__v": 0,
-    "body": "<p>The following scenario contains information about an incident of sexual assault. If the information in this case study causes you distress or triggers concerns for you, please seek assistance from the <a href=\"http://www1.rmit.edu.au/healthandsafety/eap\" target=\"_blank\">EAP</a>.</p>",
+    "body": "<p>The following scenario contains information about an incident of sexual assault. If the information in this case study causes you distress or triggers concerns for you, please seek assistance from the <a href=\"http://www1.rmit.edu.au/healthandsafety/eap\" target=\"_blank\">EAP</a>.</p></br><p>If the content of this module or this topic causes you distress, <a href=\"https://rmititsm.service-now.com/sp?id=sc_cat_item&sys_id=1d3fcbc64f0653002a4866a01310c7cf\" target=\"_blank\">you can click here to log a request to opt out.</a></p>",
     "_isQuestionType": false,
     "_tags": {
       "_tagsList": [],
