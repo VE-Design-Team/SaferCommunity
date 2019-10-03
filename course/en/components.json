@@ -989,7 +989,7 @@
     "_layout": "full",
     "_component": "text",
     "__v": 0,
-    "body": "<p>The following scenario contains information about an incident of sexual assault. If the information in this case study causes you distress or triggers concerns, you can seek assistance from the Employee Assistance Program Provider, <a href=\"https://www.rmit.edu.au/staff/hr-central/health-safety-wellbeing/mental-physical-health/employee-assistance-program\" target=\"_blank\">(Benestar)</a>, who can assist you confidentially. You can also <a href=\"https://rmititsm.service-now.com/sp?id=sc_cat_item&sys_id=1d3fcbc64f0653002a4866a01310c7cf\" target=\"_blank\">click here</a> to log a request to opt out of this module.</p>",
+    "body": "<p>The following scenario contains information about an incident of sexual assault. If the information in this case study causes you distress or triggers concerns, you can seek assistance from the Employee Assistance Program Provider, <a href=\"https://www.rmit.edu.au/staff/hr-central/health-safety-wellbeing/mental-physical-health/employee-assistance-program\" target=\"_blank\">(Benestar)</a>, who can assist you confidentially. You can also <a href=\"mailto:healthandsafety@rmit.edu.au\" target=\"_blank\">click here</a> to log a request to opt out of this module.</p>",
     "_isQuestionType": false,
     "_tags": {
       "_tagsList": [],
